@@ -17,7 +17,4 @@
   }
 
 
-  // dev mode
-  refs.modal.classList.toggle('is-open');
-
 })();
